@@ -1054,7 +1054,7 @@ a {
 .cid-ui9iMqkNYK {
   padding-top: 9rem;
   padding-bottom: 9rem;
-  background-image: url("../../../assets/images/estrutura-qc3-1594x896.png");
+  background-image: url("../../../assets/images/white-crane-construction-site-city-2000x2667.jpg");
 }
 .cid-ui9iMqkNYK .mbr-text,
 .cid-ui9iMqkNYK .mbr-section-btn {
@@ -1063,7 +1063,7 @@ a {
 .cid-ui9iMqkNYK .card-title,
 .cid-ui9iMqkNYK .card-box {
   color: #ffffff;
-  text-align: left;
+  text-align: right;
 }
 .cid-ui9iMqkNYK .mbr-text,
 .cid-ui9iMqkNYK .link-wrap {
@@ -2744,155 +2744,6 @@ a {
 .cid-uidxx4x0fv .mbr-iconfont {
   color: black;
 }
-.cid-ui9hxc6Rkx {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-image: url("../../../assets/images/estrutura-qc1-1598x1064.png");
-}
-.cid-ui9hxc6Rkx .mbr-text,
-.cid-ui9hxc6Rkx .mbr-section-btn {
-  color: #232323;
-}
-.cid-ui9hxc6Rkx .card-title,
-.cid-ui9hxc6Rkx .card-box {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-ui9hxc6Rkx .mbr-text,
-.cid-ui9hxc6Rkx .link-wrap {
-  color: #ffffff;
-}
-.cid-ui9iiplzca {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-ui9iiplzca .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ui9iiplzca img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-ui9iiplzca .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-uidIzwIzhv {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #e6c63b;
-}
-.cid-uidIzwIzhv .card {
-  border-radius: 0;
-}
-@media (min-width: 992px) {
-  .cid-uidIzwIzhv .card {
-    border-right: 1px solid white;
-  }
-}
-@media (max-width: 991px) {
-  .cid-uidIzwIzhv .card {
-    border-right: 0px;
-    border-bottom: 1px solid white;
-  }
-}
-.cid-uidIzwIzhv .wrapper {
-  padding: 30px 0;
-}
-.cid-uidIzwIzhv .mbr-section-title {
-  color: #fafafa;
-}
-.cid-uidIzwIzhv .mbr-text,
-.cid-uidIzwIzhv .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-uidIzwIzhv H3 {
-  color: #000000;
-}
-.cid-uidKroGcpW {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #e6c63b;
-}
-.cid-uidKroGcpW .item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 2rem;
-}
-.cid-uidKroGcpW .item:last-child .icon-box:before {
-  display: none;
-}
-.cid-uidKroGcpW .item.last .icon-box:before {
-  display: none;
-}
-.cid-uidKroGcpW .icon-box {
-  background: #65c6d4;
-  width: 60px;
-  min-width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-}
-@media (max-width: 768px) {
-  .cid-uidKroGcpW .icon-box {
-    margin-right: 1rem;
-  }
-}
-.cid-uidKroGcpW .icon-box::before {
-  content: "\e925";
-  font-family: Moririse2 !important;
-  position: absolute;
-  font-size: 32px;
-  left: 50%;
-  top: 120%;
-  top: 100%;
-  color: #65c6d4;
-  transform: translate(-50%, 0);
-}
-.cid-uidKroGcpW span {
-  font-size: 2rem;
-  color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-uidKroGcpW .card {
-    margin-bottom: 2rem;
-  }
-  .cid-uidKroGcpW .card-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-uidKroGcpW .icon-box::before {
-    top: 141%;
-    top: 123%;
-  }
-}
-@media (max-width: 768px) {
-  .cid-uidKroGcpW .icon-box::before {
-    top: 114%;
-  }
-}
-.cid-uidKroGcpW .card-title,
-.cid-uidKroGcpW .card-box {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-uidKroGcpW .icon-text {
-  color: #ffffff;
-}
-.cid-uidQL8tPQB {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/scene-construction-site-with-equipment-2000x1333.jpg");
-}
-.cid-uidQL8tPQB .mbr-section-title {
-  color: #ffffff;
-}
 .cid-ui8ELw5NTB {
   z-index: 1000;
   width: 100%;
@@ -3241,6 +3092,155 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-ui9hxc6Rkx {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-image: url("../../../assets/images/estrutura-qc1-1598x1064.png");
+}
+.cid-ui9hxc6Rkx .mbr-text,
+.cid-ui9hxc6Rkx .mbr-section-btn {
+  color: #232323;
+}
+.cid-ui9hxc6Rkx .card-title,
+.cid-ui9hxc6Rkx .card-box {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-ui9hxc6Rkx .mbr-text,
+.cid-ui9hxc6Rkx .link-wrap {
+  color: #ffffff;
+}
+.cid-ui9iiplzca {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-ui9iiplzca .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ui9iiplzca img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-ui9iiplzca .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uidIzwIzhv {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #e6c63b;
+}
+.cid-uidIzwIzhv .card {
+  border-radius: 0;
+}
+@media (min-width: 992px) {
+  .cid-uidIzwIzhv .card {
+    border-right: 1px solid white;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uidIzwIzhv .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-uidIzwIzhv .wrapper {
+  padding: 30px 0;
+}
+.cid-uidIzwIzhv .mbr-section-title {
+  color: #fafafa;
+}
+.cid-uidIzwIzhv .mbr-text,
+.cid-uidIzwIzhv .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-uidIzwIzhv H3 {
+  color: #000000;
+}
+.cid-uidKroGcpW {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #e6c63b;
+}
+.cid-uidKroGcpW .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-uidKroGcpW .item:last-child .icon-box:before {
+  display: none;
+}
+.cid-uidKroGcpW .item.last .icon-box:before {
+  display: none;
+}
+.cid-uidKroGcpW .icon-box {
+  background: #65c6d4;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+@media (max-width: 768px) {
+  .cid-uidKroGcpW .icon-box {
+    margin-right: 1rem;
+  }
+}
+.cid-uidKroGcpW .icon-box::before {
+  content: "\e925";
+  font-family: Moririse2 !important;
+  position: absolute;
+  font-size: 32px;
+  left: 50%;
+  top: 120%;
+  top: 100%;
+  color: #65c6d4;
+  transform: translate(-50%, 0);
+}
+.cid-uidKroGcpW span {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-uidKroGcpW .card {
+    margin-bottom: 2rem;
+  }
+  .cid-uidKroGcpW .card-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-uidKroGcpW .icon-box::before {
+    top: 141%;
+    top: 123%;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uidKroGcpW .icon-box::before {
+    top: 114%;
+  }
+}
+.cid-uidKroGcpW .card-title,
+.cid-uidKroGcpW .card-box {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uidKroGcpW .icon-text {
+  color: #ffffff;
+}
+.cid-uidQL8tPQB {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/scene-construction-site-with-equipment-2000x1333.jpg");
+}
+.cid-uidQL8tPQB .mbr-section-title {
+  color: #ffffff;
 }
 .cid-uidxx4x0fv {
   padding-top: 5rem;
