@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Quality Construcoes",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -50,7 +50,7 @@
     "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "publishEditFolder": false,
     "mbrsiteDomain": "qualityconstrucoes",
     "usedWebp": false,
