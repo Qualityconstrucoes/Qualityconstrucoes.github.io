@@ -50,7 +50,7 @@
     "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "publishEditFolder": false,
     "mbrsiteDomain": "qualityconstrucoes",
     "usedWebp": false,
